@@ -225,7 +225,7 @@ const testimonials = [
     name: "Marvin McKinney",
     mentions: "@marvinmckinney",
     review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+      "Adrian was a pleasure to work with Daneil. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
     imgPath: "/images/client5.png",
   },
   {
@@ -257,6 +257,7 @@ const socialImgs = [
   },
   {
     name: "x",
+    url:"https://x.com/danyik3d?t=WSCmW1VwjjTZOOH9WFzjUQ&s=09",
     imgPath: "/images/x.png",
   },
   {
